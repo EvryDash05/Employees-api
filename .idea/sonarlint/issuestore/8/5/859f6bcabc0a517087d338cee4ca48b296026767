@@ -1,0 +1,9 @@
+
+—
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óº‹‰
+Y
+java:S1128	">Remove this unused import 'org.apache.catalina.mapper.Mapper'.(§€Ãàúÿÿÿÿ
+R
+java:S1144*"7Remove this unused private "toEmployeeResponse" method.(Ââ¹îıÿÿÿÿ
+K
+java:S1144."5Remove this unused private "toEmployeeEntity" method.(…ÀÊ«

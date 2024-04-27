@@ -1,0 +1,5 @@
+
+h
+java:S62041"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+L
+java:S1144h"1Remove this unused private "toRoleEntity" method.(å¡Úêüÿÿÿÿ

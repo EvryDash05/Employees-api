@@ -1,0 +1,45 @@
+
+Y
+java:S6208y"CMerge the previous cases into this one using comma-separated label.(ë¶ÛŸ
+^
+java:S6208~"CMerge the previous cases into this one using comma-separated label.(¤å™ÿÿÿÿÿ
+_
+java:S6208·"CMerge the previous cases into this one using comma-separated label.(Ë³…¶ûÿÿÿÿ
+_
+java:S6208Ğ"CMerge the previous cases into this one using comma-separated label.(¡•Ûúÿÿÿÿ
+_
+java:S6208ñ"CMerge the previous cases into this one using comma-separated label.(îÌ¨Ñıÿÿÿÿ
+_
+java:S6208û"CMerge the previous cases into this one using comma-separated label.(¡•Ûúÿÿÿÿ
+_
+java:S6208Ó"CMerge the previous cases into this one using comma-separated label.(ğ±Üøÿÿÿÿ
+Z
+java:S6208Ö"CMerge the previous cases into this one using comma-separated label.(´½ÒÁ
+b
+java:S1192¡"FDefine a constant instead of duplicating this literal "date(" 3 times.(õñ‘Íÿÿÿÿÿ
+f
+java:S1192«"JDefine a constant instead of duplicating this literal "datetime(" 3 times.(ñ„»áÿÿÿÿÿ
+b
+java:S1192¦"FDefine a constant instead of duplicating this literal "time(" 3 times.(Ğ ïşÿÿÿÿ
+U
+java:S1874ÿ"9Remove this use of "SemanticException"; it is deprecated.(ÀæÏ“şÿÿÿÿ
+N
+java:S1135š"2Complete the task associated to this TODO comment.(®Ã¨ûÿÿÿÿ
+Q
+java:S1161¨":Add the "@Override" annotation above this method signature(Ëí‡ª
+a
+java:S1874Â"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ğÆöã
+P
+java:S1874¾"4Remove this use of "appendAsTime"; it is deprecated.(âÔ×ãûÿÿÿÿ
+K
+java:S1874Ù"4Remove this use of "appendAsTime"; it is deprecated.(ŒÀÒÜ
+9
+java:S1128S"Remove this duplicated import.(„™©­ÿÿÿÿÿ
+I
+java:S1068µ"2Remove this unused "SQLITE_CORRUPT" private field.(ÑÑç¶
+O
+java:S1068¶"3Remove this unused "SQLITE_NOTFOUND" private field.(ú¶¶Åøÿÿÿÿ
+E
+java:S1068·"/Remove this unused "SQLITE_FULL" private field.(ãëT
+I
+java:S1068¸"3Remove this unused "SQLITE_CANTOPEN" private field.(İ¯Š.

@@ -1,0 +1,39 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/db_employees
+    username: postgres
+    password: DOKY2018
+  jpa:
+    hibernate.ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: false
+security:
+  jwt:
+    key:
+    lifetime: 10000
+api:
+  uri:
+    basePath: /api/v1
+    domain:
+      employees: /employee
+      jobDepartment: /jobDepartment
+      leave: /leave
+      payroll: /payroll
+      role: /role
+      salary: /salary
+      toDo: /toDo
+    data:
+      modified: /{id}
+      search: /{search}
+      authentication: ${api.uri.domain.employees}/authentication
+      confirm: ${api.uri.domain.users}/confirm
+      userConfirm: /confirm
+      reset: /password/reset
+      passwordForgot: ${api.uri.domain.employees}/password/reset
+
+    token:
+      expiration: 1 # one day
